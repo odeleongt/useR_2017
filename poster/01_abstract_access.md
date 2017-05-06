@@ -25,10 +25,10 @@ but several shortcomings preclude the availability and usefulness of this inform
 Physical accessibility to services is usually evaluated based on distance from
 the communities to the health services, either over a shortest path or through
 a known network of possible routes [@delamater-suboptimally].
-Theses analysis topically require a considerable amount of analysis effort,
+These analyses typically require a considerable amount of analysis effort,
 and the use of traditional analysis tools (i.e. point-and-click style analysis software)
 has limited previous efforts to a few regions of the country [@annis-access-center; @owen-access-av].
-Previous analysis have not taken into account altitude changes in the routing,
+Previous analyses have not taken into account altitude changes in the routing,
 which heavily influences transportation costs.
 Given the economic disparity in the country, altitude change should be considered
 to provide a better assessment of physical accessibility to health services.
