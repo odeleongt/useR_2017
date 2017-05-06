@@ -11,7 +11,7 @@ bibliography: service-access.bib
 
 **Keywords**: Health, accessibility, distance, equity, GIS
 
-**Webpages**: https://github.com/odeleongt/useR_2017/tree/master/01_gt_health_service_access
+**Webpages**: https://github.com/odeleongt/useR_2017
 
 Guatemala (Central America) is a developing country with wide disparity issues
 regarding income and basic needs coverage [@worldbank-gt].
